@@ -1,0 +1,11 @@
+appdirs==1.4.0
+args==0.1.0
+astor==0.5
+backports-abc==0.5
+certifi==2016.9.26
+clint==0.5.1
+https://github.com/hylang/hy/zipball/f644dda0ddd430dafd4a16466f742936b0d39aa7
+rply==0.7.4
+singledispatch==3.4.0.3
+six==1.10.0
+tornado==4.4.2
