@@ -3,3 +3,5 @@ lib
 include
 pip-selfcheck.json
 .Python
+Scripts
+tcl
